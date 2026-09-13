@@ -1,0 +1,28 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: #3A3A3A;
+}
+
+h1 {
+  color: #C0C0C0;
+}
+
+p {
+  color: #2C9161;
+}
+
+table {
+  background-color: #C0C0C0;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #161616;
+  color: #2C9161;
+}
+
+td {
+  background-color: #2C9161;
+  color: #C0C0C0;
+}
+  
